@@ -4,16 +4,16 @@
 /* eslint-disable */
 
 export type JudgeInfo = {
-  /**
-   * 消耗内存 - kb
-   */
-  memory?: string;
-  /**
-   * 程序执行信息
-   */
-  message?: string;
-  /**
-   * 消耗时间 - ms
-   */
-  time?: string;
+    /**
+     * 消耗内存 - kb
+     */
+    memory?: string;
+    /**
+     * 程序执行信息
+     */
+    message?: string;
+    /**
+     * 消耗时间 - ms
+     */
+    time?: string;
 };
